@@ -1,6 +1,6 @@
 # Agentic AI Projects
 
-This repository contains my Agentic AI projects built using LangGraph, LangChain, OpenRouter, and Python.
+This repository contains my Agentic AI projects built using LangGraph, LangChain, API Keys, and Python.
 
 ## Projects
 

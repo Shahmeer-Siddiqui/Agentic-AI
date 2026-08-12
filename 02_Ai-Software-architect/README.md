@@ -1,6 +1,6 @@
 # AI Software Architect
 
-This project is an AI-powered Software Architect built using Python, LangGraph, LangChain, and OpenRouter.
+This project is an AI-powered Software Architect built using Python, LangGraph, LangChain, and Api Keys.
 
 ## Features
 

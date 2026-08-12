@@ -19,7 +19,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 llm = ChatOpenAI(
-    model="poolside/laguna-s-2.1:free",  # Alternative free model
+    model="poolside/laguna-s-2.1:free", 
     api_key=os.getenv("OPENROUTER_API_KEY"),
     base_url="https://openrouter.ai/api/v1",
     temperature=0,

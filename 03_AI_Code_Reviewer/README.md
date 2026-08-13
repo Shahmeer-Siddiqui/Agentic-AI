@@ -6,7 +6,7 @@ It analyzes source code and automatically generates a professional code review r
 
 ## 🚀 Features
 
-- Code Summary
+- Code Summary,
 - Bug Detection
 - Code Optimization
 - Best Practices Review

@@ -20,9 +20,22 @@ It analyzes source code and automatically generates a professional code review r
 - OpenRouter Api Key
 - dotenv
 
-## Installation
+## Run
 
-Clone the repository
+Install dependencies
 
 ```bash
-git clone https://github.com/yourusername/AI-Code-Reviewer.git
+pip install -r requirements.txt
+```
+
+Create a `.env` file
+
+```
+OPENROUTER_API_KEY=your_api_key_here
+```
+
+Run
+
+```bash
+python project.py
+```

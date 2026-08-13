@@ -1,6 +1,6 @@
 # 🤖 AI Code Reviewer
 
-An AI-powered Code Review Assistant built using **LangGraph**, **LangChain**, and **OpenRouter**.
+An AI-powered Code Review Assistant built using **LangGraph**, **LangChain**, and **Api Key**.
 
 It analyzes source code and automatically generates a professional code review report.
 
